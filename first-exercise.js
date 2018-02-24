@@ -1,3 +1,7 @@
+//
+// Increment numbers on counter 
+//
+
 class Button extends React.Component{
  
     handleClick = () => {
