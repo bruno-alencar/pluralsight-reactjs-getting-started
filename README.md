@@ -2,6 +2,6 @@
 
 ## To run
 
-* Enter: [https://jscomplete.com/repl/](https://jscomplete.com/repl/)
+* Join: [https://jscomplete.com/repl/](https://jscomplete.com/repl/)
 * Copy exercise
 * Run
